@@ -1,6 +1,6 @@
 //Matthew Orellana
 //June 22 2022
-//This program will allow score from multiples judges to be calculated and give an overall score for a gymnists competition 
+//This program will allow scores from multiples judges to be calculated and give an overall score for a gymnasts competition 
 import java.util.Arrays;
 import java.util.Scanner;
 public class ScoringSystem{
